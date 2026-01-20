@@ -31,3 +31,5 @@ CATEGORIES = {
         "Conference Center", "Convention Center", "Stadium", "Arena"
     ],
 }
+
+# auto-commit
